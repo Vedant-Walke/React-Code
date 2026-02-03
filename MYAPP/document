@@ -1,0 +1,13 @@
+set-up/install react:
+  ->npm installl -g create-react-app
+
+to check the version of react:-
+  -> create-react-app --version / -v
+
+to create reactjs Application
+  -> create-react-app [application name]
+      eg) create-react-app myapp
+
+then automatically comes two commands as give below:-
+  1) cd app_name                 application_name is when your are create the application on that time youare set the application name on line number  7. 
+  2) npm start this command is used to start our application, after that click allow and set chrome
